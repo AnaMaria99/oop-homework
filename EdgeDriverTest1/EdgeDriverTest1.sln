@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EdgeDriverTest1", "EdgeDriverTest1\EdgeDriverTest1.csproj", "{BC42DABA-EE6F-4853-B237-F09AA008C7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC42DABA-EE6F-4853-B237-F09AA008C7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC42DABA-EE6F-4853-B237-F09AA008C7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC42DABA-EE6F-4853-B237-F09AA008C7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC42DABA-EE6F-4853-B237-F09AA008C7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17128439-8051-4590-9182-E4EB2D1E24D5}
+	EndGlobalSection
+EndGlobal
